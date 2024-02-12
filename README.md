@@ -19,11 +19,16 @@
 ![image](https://github.com/pmcm4/PharmaEasy/assets/103233119/e7b63f4f-fffb-4aec-b88f-41fbc543bd0b)
 
 # **PROBLEM FIX**
-If you encounter a problem running the app (ex. A Java Exception has occured):
+If you encounter some problems while running the app 
 
+# For Example:
 ![image](https://github.com/pmcm4/PharmaEasy/assets/108311954/9bc78f99-6ff6-4476-b656-2ee767011ab2)
 
-You can solve this by going to this link: https://www.oracle.com/java/technologies/downloads/?fbclid=IwAR1NXXcl2y0CDn2VfGE1spMR1zt45fogi3OtPmBkLsg2zZ7FnjaTb3-9dy4
+**or**
+
+![image](https://github.com/pmcm4/PharmaEasy/assets/108311954/e090314b-94b9-466b-801d-fdf782d5222f)
+
+You can solve these by going to this link: https://www.oracle.com/java/technologies/downloads/?fbclid=IwAR1NXXcl2y0CDn2VfGE1spMR1zt45fogi3OtPmBkLsg2zZ7FnjaTb3-9dy4
 
 Then, **download** and **install** the neccessary JDK 21 Installer on your device.
 
