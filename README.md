@@ -23,5 +23,6 @@ If you encounter a problem running the app (ex. A Java Exception has occured):
 ![image](https://github.com/pmcm4/PharmaEasy/assets/108311954/9bc78f99-6ff6-4476-b656-2ee767011ab2)
 
 You can solve this by going to this link: https://www.oracle.com/java/technologies/downloads/?fbclid=IwAR1NXXcl2y0CDn2VfGE1spMR1zt45fogi3OtPmBkLsg2zZ7FnjaTb3-9dy4
-Then, **download** and **install** neccessary JDK 21 Installer in your device.
+
+Then, **download** and **install** the neccessary JDK 21 Installer on your device.
 
