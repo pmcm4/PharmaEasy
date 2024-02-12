@@ -32,6 +32,8 @@ If you encounter issues while running the app, follow these steps:
    - Visit [Oracle JDK 21 Installer](https://www.oracle.com/java/technologies/downloads/?fbclid=IwAR1NXXcl2y0CDn2VfGE1spMR1zt45fogi3OtPmBkLsg2zZ7FnjaTb3-9dy4).
    - **Download** and **install** the necessary JDK 21.
 ### **Then, you're good to go! 👍👍👍** 
+![image](https://github.com/pmcm4/PharmaEasy/assets/108311954/5d5025d1-0c6a-4704-bba8-7a0ae336755a)
+
 
 ## **Screenshots**
 
