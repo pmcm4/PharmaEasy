@@ -1,8 +1,9 @@
 # **HOW TO RUN THE APP?**
 
 1. Download "pharmaeasy_latest_working.zip" using this link: https://drive.google.com/file/d/1_nBELPzn7WxShNl5xU9iYNHkUxFXEChA/view?usp=sharing
-2. Extract the file and simply run "pharmaeasy.exe"
-  ![image](https://github.com/pmcm4/PharmaEasy/assets/103233119/d5f3867f-af16-4e28-a4b7-77b5755cef35)
+2. Extract the file and simply run "pharmaeasy.exe" or "pharmaeasy-mirror.exe"
+  ![image](https://github.com/pmcm4/PharmaEasy/assets/103233119/aefdf4ad-8cf1-4edc-8fda-8a241eff03bb)
+
 3. Use "admin" as **username** and "1234" as **password**
    ![image](https://github.com/pmcm4/PharmaEasy/assets/103233119/18479ed6-1108-4b4b-87fb-f606c2ed6e54)
 
