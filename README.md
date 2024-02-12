@@ -30,7 +30,8 @@ If you encounter issues while running the app, follow these steps:
 
 2. **Solution:**
    - Visit [Oracle JDK 21 Installer](https://www.oracle.com/java/technologies/downloads/?fbclid=IwAR1NXXcl2y0CDn2VfGE1spMR1zt45fogi3OtPmBkLsg2zZ7FnjaTb3-9dy4).
-   - Download and install the necessary JDK 21.
+   - **Download** and **install** the necessary JDK 21.
+### **Then, you're good to go!**
 
 ## **Screenshots**
 
